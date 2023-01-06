@@ -1,0 +1,90 @@
+.warbots-assets {
+  color: #e1dfec80;
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-family: DM Sans, Arial;
+  font-size: .875rem;
+  font-weight: 700;
+  line-height: 18px;
+  display: flex;
+}
+
+.left-sidebar-instance-1 {
+  height: 100%;
+}
+
+.flex-container {
+  height: 55%;
+  flex-direction: column;
+  flex-basis: 23%;
+  justify-content: space-between;
+  align-self: flex-start;
+  align-items: stretch;
+  margin-top: 52px;
+  display: flex;
+}
+
+.dashboard-assets {
+  margin-bottom: 23px;
+  font-weight: 400;
+}
+
+.assets {
+  text-transform: uppercase;
+  color: #e1dfec;
+  margin-top: 7px;
+  margin-bottom: 22px;
+  font-size: 1.75rem;
+  line-height: 36px;
+}
+
+.rectangle-18 {
+  width: 220px;
+  height: 260px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  border-radius: 5px;
+  align-self: flex-end;
+  margin-top: 10px;
+}
+
+.button-instance-3 {
+  width: 65%;
+  flex-basis: 11%;
+}
+
+.flex-container-1 {
+  height: 40%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 107px;
+  margin-left: 67px;
+  display: flex;
+}
+
+.rectangle-24 {
+  width: 266px;
+  height: 260px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  border-radius: 5px;
+}
+
+.button-1-instance {
+  width: 80%;
+  flex-basis: 16%;
+  margin-left: 10px;
+}
+
+.right-sidebar-instance-2 {
+  height: 100%;
+  flex-basis: 19%;
+  margin-left: 32px;
+}

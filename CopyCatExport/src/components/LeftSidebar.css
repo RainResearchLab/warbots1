@@ -1,0 +1,147 @@
+.left-sidebar {
+  color: #00000080;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  font-family: DM Sans, Arial;
+  font-size: .875rem;
+  font-weight: 500;
+  line-height: 18px;
+  display: flex;
+}
+
+.left-container {
+  height: 100%;
+  background-color: #ad8b27;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 21px;
+  display: flex;
+}
+
+.image-2 {
+  width: 270px;
+  height: 120px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 33px;
+}
+
+.flex-container-2 {
+  width: 40%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  align-items: flex-end;
+  margin-top: 5px;
+  margin-left: 41px;
+  display: flex;
+}
+
+.button-text-instance {
+  height: 100%;
+  flex-basis: 100%;
+  margin-right: -113px;
+}
+
+.home {
+  margin-left: -14px;
+}
+
+.flex-container-3 {
+  width: 40%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  display: flex;
+}
+
+.button-text-instance-1 {
+  height: 100%;
+  flex-basis: 100%;
+  margin-bottom: 1px;
+  margin-right: -178px;
+}
+
+.iconly-light-bag {
+  width: 20px;
+  height: 15px;
+  object-fit: cover;
+  align-self: flex-end;
+  margin-left: -79px;
+}
+
+.flex-container-4 {
+  width: 40%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  display: flex;
+}
+
+.button-text-instance-2 {
+  width: 100%;
+  flex-basis: 84%;
+  margin-bottom: -13px;
+}
+
+.iconly-light-activity {
+  width: 20px;
+  height: 15px;
+  object-fit: cover;
+  margin-top: 14px;
+  margin-bottom: -11px;
+}
+
+.reports {
+  align-self: flex-end;
+  margin-top: 15px;
+}
+
+.flex-container-5 {
+  width: 40%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-bottom: 239px;
+  display: flex;
+}
+
+.button-text-instance-3 {
+  width: 100%;
+  flex-basis: 91%;
+  margin-bottom: -13px;
+}
+
+.iconly-light-plus {
+  width: 22px;
+  height: 15px;
+  object-fit: cover;
+  margin-top: 13px;
+  margin-bottom: -11px;
+}
+
+.mint {
+  align-self: center;
+  margin-top: 14px;
+  margin-bottom: 1px;
+  margin-left: 9px;
+}
+
+.button-instance-1 {
+  width: 75%;
+  flex-basis: 5%;
+  margin-top: 35px;
+  margin-bottom: 42px;
+  margin-left: 1px;
+}
+
+.button-instance-2 {
+  width: 75%;
+  flex-basis: 5%;
+  margin-top: 11px;
+  margin-bottom: 27px;
+  margin-left: 1px;
+}
