@@ -1,5 +1,5 @@
 import * as React from "react";
-import "./App.css";
+import "./warbotsassets.css";
 import iconlyLightBag from "./assets/iconlyLightBag.svg";
 import iconlyLightPlus from "./assets/iconlyLightPlus.svg";
 import iconlyLightActivity from "./assets/iconlyLightActivity.svg";
