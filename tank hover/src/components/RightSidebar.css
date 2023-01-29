@@ -1,0 +1,53 @@
+.right-sidebar-1 {
+  text-align: center;
+  color: #eee798;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-family: Inter, Arial;
+  font-size: .938rem;
+  font-weight: 600;
+  line-height: 26px;
+  display: flex;
+}
+
+.image-3-2 {
+  z-index: 1;
+  height: 85%;
+  background-image: url("/src/assets/image31.png");
+  background-position: center;
+  background-size: cover;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: flex-end;
+  align-items: stretch;
+  margin-right: -218px;
+  padding-top: 29px;
+  padding-right: 53px;
+  display: flex;
+}
+
+.wallet-connect-instance {
+  height: 10%;
+  flex-basis: 36%;
+  margin-bottom: 24px;
+}
+
+.cat-absolute-container {
+  z-index: 1;
+  height: 100%;
+  flex-direction: row;
+  flex-basis: 60%;
+  justify-content: center;
+  align-items: stretch;
+  margin-right: -268px;
+  padding-top: 80px;
+  padding-left: 1px;
+  display: flex;
+}
+
+.right-sidebar-instance-3 {
+  height: 100%;
+  flex-basis: 60%;
+  margin-left: -1px;
+}
