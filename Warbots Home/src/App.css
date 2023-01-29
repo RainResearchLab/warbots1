@@ -1,0 +1,501 @@
+.warbots-home {
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  font-family: DM Sans, Arial;
+  font-size: .875rem;
+  font-weight: 700;
+  line-height: 18px;
+  display: flex;
+}
+
+.left-sidebar-instance-1 {
+  height: 100%;
+  margin-left: -177px;
+}
+
+.image-3 {
+  height: 100%;
+  background-image: url("/src/assets/image3.png");
+  background-position: center;
+  background-size: cover;
+  flex-direction: column;
+  flex-basis: 63%;
+  justify-content: space-evenly;
+  align-self: flex-end;
+  align-items: stretch;
+  margin-top: 45px;
+  margin-left: -137px;
+  margin-right: -963px;
+  padding-bottom: 80px;
+  padding-left: 23px;
+  display: flex;
+}
+
+.dashboard-home {
+  color: #e1dfec80;
+  margin-bottom: 47px;
+  margin-left: 3px;
+  font-weight: 400;
+}
+
+.home {
+  text-transform: uppercase;
+  color: #eee798;
+  margin-top: 4px;
+  font-size: 1.75rem;
+  line-height: 36px;
+}
+
+.flex-container {
+  color: #bb9c3e;
+  width: 50%;
+  flex-direction: row;
+  flex-basis: 2%;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-left: 2px;
+  font-size: 1.125rem;
+  line-height: 23px;
+  display: flex;
+}
+
+.flex-container-1 {
+  height: 90%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-bottom: 1px;
+  display: flex;
+}
+
+.cat-absolute-container {
+  z-index: 1;
+  width: 100%;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-bottom: -13px;
+  display: flex;
+}
+
+.war-hummer-1 {
+  align-self: flex-end;
+}
+
+.flex-container-2 {
+  width: 95%;
+  flex-direction: row;
+  flex-basis: 18%;
+  justify-content: space-between;
+  align-self: center;
+  align-items: flex-end;
+  margin-bottom: 48px;
+  font-weight: 500;
+  line-height: 16px;
+  display: flex;
+}
+
+.rectangle-6 {
+  height: 100%;
+  background-color: #131024;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  flex-direction: row;
+  flex-basis: 31%;
+  justify-content: flex-start;
+  align-self: flex-start;
+  align-items: stretch;
+  margin-bottom: 2px;
+  font-size: 1.25rem;
+  display: flex;
+}
+
+.image-3-1 {
+  height: 100%;
+  background-image: url("/src/assets/image31.png");
+  background-position: center;
+  background-size: cover;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: flex-start;
+  align-items: stretch;
+  display: flex;
+}
+
+.rectangle-6-1 {
+  height: 100%;
+  background-color: #131024;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding-top: 3px;
+  display: flex;
+}
+
+.image-3-2 {
+  height: 100%;
+  background-image: url("/src/assets/image31.png");
+  background-position: center;
+  background-size: cover;
+  flex-direction: column;
+  flex-basis: 99%;
+  justify-content: space-evenly;
+  align-items: stretch;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 13px;
+  display: flex;
+}
+
+.flex-container-3 {
+  width: 90%;
+  flex-direction: row;
+  flex-basis: 52%;
+  justify-content: space-between;
+  align-self: center;
+  align-items: stretch;
+  margin-bottom: 1px;
+  line-height: 26px;
+  display: flex;
+}
+
+.flex-container-4 {
+  height: 80%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  display: flex;
+}
+
+.num-1820 {
+  letter-spacing: 2px;
+  font-size: 2.5rem;
+  line-height: 52px;
+}
+
+.chart-2 {
+  width: 106px;
+  height: 69px;
+  object-fit: cover;
+  align-self: flex-end;
+}
+
+.profit-last-7-days {
+  margin-top: 1px;
+  margin-left: 6px;
+  font-size: .75rem;
+}
+
+.num-187 {
+  margin-bottom: 1px;
+  margin-left: 6px;
+  font-size: .875rem;
+  line-height: 18px;
+}
+
+.rectangle-6-2 {
+  height: 100%;
+  background-color: #131024;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  flex-direction: row;
+  flex-basis: 31%;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin-top: 2px;
+  padding-top: 3px;
+  display: flex;
+}
+
+.image-3-3 {
+  height: 100%;
+  background-image: url("/src/assets/image31.png");
+  background-position: center;
+  background-size: cover;
+  flex-direction: column;
+  flex-basis: 99%;
+  justify-content: space-evenly;
+  align-items: stretch;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 13px;
+  display: flex;
+}
+
+.flex-container-5 {
+  width: 90%;
+  flex-direction: row;
+  flex-basis: 52%;
+  justify-content: space-between;
+  align-self: center;
+  align-items: stretch;
+  margin-bottom: 1px;
+  font-size: 1.25rem;
+  line-height: 26px;
+  display: flex;
+}
+
+.flex-container-6 {
+  height: 80%;
+  flex-direction: column;
+  flex-basis: 44%;
+  justify-content: space-between;
+  align-items: stretch;
+  display: flex;
+}
+
+.num-5100 {
+  letter-spacing: 2px;
+  align-self: flex-end;
+  font-size: 2.5rem;
+  line-height: 52px;
+}
+
+.chart {
+  width: 106px;
+  height: 69px;
+  object-fit: cover;
+  align-self: flex-end;
+}
+
+.profit-last-7-days-1 {
+  margin-top: 1px;
+  font-size: .75rem;
+}
+
+.num-187-1 {
+  margin-bottom: 1px;
+  line-height: 18px;
+}
+
+.rectangle-10 {
+  color: #ffffff80;
+  height: 100%;
+  background-color: #131024;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  flex-direction: column;
+  flex-basis: 31%;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2px;
+  padding-right: 5px;
+  font-size: 1rem;
+  line-height: 21px;
+  display: flex;
+}
+
+.iconly-light-plus {
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+  margin-bottom: 11px;
+  margin-left: 2px;
+}
+
+.new-war-bot {
+  margin-bottom: 4px;
+}
+
+.activity {
+  text-transform: uppercase;
+  color: #eee798;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  margin-left: 35px;
+  font-size: 1.75rem;
+  line-height: 36px;
+}
+
+.flex-container-7 {
+  color: #ffffff80;
+  width: 80%;
+  flex-direction: row;
+  flex-basis: 2%;
+  justify-content: space-between;
+  align-self: center;
+  align-items: stretch;
+  margin-top: 3px;
+  display: flex;
+}
+
+.amount {
+  align-self: flex-end;
+}
+
+.status {
+  align-self: center;
+  margin-top: 1px;
+}
+
+.total {
+  margin-left: 86px;
+}
+
+.line-4 {
+  width: 709px;
+  height: 1px;
+  object-fit: cover;
+  border: 1px solid #fff;
+  align-self: center;
+}
+
+.flex-container-8 {
+  color: #ffffff80;
+  width: 80%;
+  flex-direction: row;
+  flex-basis: 4%;
+  justify-content: space-between;
+  align-self: center;
+  align-items: center;
+  font-weight: 400;
+  display: flex;
+}
+
+.frame-1 {
+  width: 29px;
+  height: 32px;
+  object-fit: cover;
+  align-self: flex-start;
+}
+
+.warbot-purchased {
+  color: #fff;
+  align-self: flex-end;
+  font-weight: 500;
+}
+
+.num-1-warbot {
+  color: #fff;
+  margin-bottom: 3px;
+  margin-left: 25px;
+}
+
+.pending {
+  margin-bottom: 2px;
+  margin-left: 17px;
+}
+
+.num-1000-busd {
+  align-self: flex-end;
+  margin-left: 39px;
+}
+
+.december-19-th-2022 {
+  align-self: flex-end;
+  margin-left: 3px;
+}
+
+.flex-container-9 {
+  width: 80%;
+  flex-direction: row;
+  flex-basis: 4%;
+  justify-content: space-between;
+  align-self: center;
+  align-items: center;
+  font-weight: 400;
+  display: flex;
+}
+
+.group-3 {
+  width: 29px;
+  height: 32px;
+  object-fit: cover;
+  align-self: flex-start;
+}
+
+.warbot-purchased-1 {
+  align-self: flex-end;
+  font-weight: 500;
+}
+
+.num-1-warbot-1 {
+  margin-top: 2px;
+  margin-left: 18px;
+}
+
+.done {
+  margin-left: 20px;
+}
+
+.num-1000-busd-1 {
+  color: #ffffff80;
+  align-self: flex-end;
+  margin-left: 47px;
+}
+
+.december-13-th-2022 {
+  color: #ffffff80;
+  align-self: flex-end;
+  margin-left: 1px;
+}
+
+.flex-container-10 {
+  width: 80%;
+  flex-direction: row;
+  flex-basis: 4%;
+  justify-content: space-between;
+  align-self: center;
+  align-items: center;
+  margin-bottom: 66px;
+  font-weight: 400;
+  display: flex;
+}
+
+.group-3-1 {
+  width: 29px;
+  height: 32px;
+  object-fit: cover;
+  align-self: flex-start;
+}
+
+.warbot-purchased-2 {
+  align-self: flex-end;
+  font-weight: 500;
+}
+
+.num-1-warbot-2 {
+  margin-bottom: 3px;
+  margin-left: 20px;
+}
+
+.done-1 {
+  margin-bottom: 5px;
+  margin-left: 19px;
+}
+
+.num-1000-busd-2 {
+  color: #ffffff80;
+  align-self: flex-end;
+  margin-left: 46px;
+}
+
+.december-10-th-2022 {
+  color: #ffffff80;
+  align-self: flex-end;
+  margin-left: 2px;
+}
+
+.image-2 {
+  z-index: 1;
+  width: 327px;
+  height: 185px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+
+.right-sidebar-instance-1 {
+  height: 100%;
+  flex-basis: 31%;
+  margin-top: 1px;
+}

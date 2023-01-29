@@ -1,0 +1,11 @@
+.unstyled-button {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.button-text-instance-4 {
+  height: 55%;
+  flex-basis: 72%;
+}

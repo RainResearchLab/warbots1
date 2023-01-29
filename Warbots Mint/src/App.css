@@ -1,0 +1,162 @@
+.warbots-mint {
+  color: #e1dfec80;
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  font-family: DM Sans, Arial;
+  font-size: 1.75rem;
+  font-weight: 400;
+  line-height: 18px;
+  display: flex;
+}
+
+.left-sidebar-instance-1 {
+  height: 100%;
+  margin-right: 360px;
+}
+
+.right-sidebar-instance-1 {
+  height: 100%;
+  flex-basis: 31%;
+  margin-left: 301px;
+  margin-right: -1750px;
+}
+
+.image-3 {
+  height: 100%;
+  background-image: url("/src/assets/image3.png");
+  background-position: center;
+  background-size: cover;
+  flex-direction: column;
+  flex-basis: 63%;
+  justify-content: center;
+  align-items: center;
+  margin-left: 213px;
+  padding-left: 25px;
+  padding-right: 10px;
+  display: flex;
+}
+
+.flex-container {
+  width: 70%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  align-items: center;
+  margin-bottom: 10px;
+  display: flex;
+}
+
+.flex-container-1 {
+  height: 55%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-bottom: 8px;
+  display: flex;
+}
+
+.dashboard-mint {
+  font-size: .875rem;
+}
+
+.mint {
+  text-transform: uppercase;
+  color: #eee798;
+  margin-left: 1px;
+  font-weight: 700;
+  line-height: 36px;
+}
+
+.image-2 {
+  width: 327px;
+  height: 185px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+
+.flex-container-2 {
+  width: 95%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-bottom: 12px;
+  display: flex;
+}
+
+.rectangle-18, .rectangle-23 {
+  width: 255px;
+  height: 255px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  border-radius: 5px;
+}
+
+.rectangle-24 {
+  width: 255px;
+  height: 255px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  border-radius: 5px;
+  margin-left: 2px;
+}
+
+.flex-container-3 {
+  width: 90%;
+  flex-direction: row;
+  flex-basis: 6%;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-bottom: 14px;
+  display: flex;
+}
+
+.button-instance-1, .button-1-instance {
+  height: 100%;
+  flex-basis: 26%;
+}
+
+.button-2-instance {
+  height: 100%;
+  flex-basis: 26%;
+  margin-left: 2px;
+}
+
+.flex-container-4 {
+  width: 70%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-bottom: 14px;
+  display: flex;
+}
+
+.rectangle-21, .rectangle-25 {
+  width: 255px;
+  height: 255px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  border-radius: 5px;
+}
+
+.flex-container-5 {
+  width: 60%;
+  flex-direction: row;
+  flex-basis: 6%;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-bottom: 15px;
+  display: flex;
+}
+
+.button-3-instance, .button-4-instance {
+  height: 100%;
+  flex-basis: 38%;
+}
