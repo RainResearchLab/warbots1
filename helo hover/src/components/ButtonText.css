@@ -1,0 +1,15 @@
+.button-text {
+  color: #111827;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  font-family: Inter, Arial;
+  font-size: .938rem;
+  font-weight: 600;
+  line-height: 26px;
+  display: flex;
+}
+
+.button {
+  margin-bottom: -15px;
+}
