@@ -1,0 +1,14 @@
+.table-cell-1 {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  display: flex;
+}
+
+.typography-instance-1 {
+  height: 45%;
+  flex-basis: 78%;
+  margin-top: 1px;
+}

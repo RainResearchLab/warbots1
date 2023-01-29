@@ -1,0 +1,11 @@
+.table-header {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.table-header-text-instance-1 {
+  height: 60%;
+  flex-basis: 78%;
+}

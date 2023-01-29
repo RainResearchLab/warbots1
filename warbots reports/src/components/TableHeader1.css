@@ -1,0 +1,17 @@
+.table-header-1 {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.mastertableelementss {
+  width: 26px;
+  height: 18px;
+  object-fit: cover;
+}
+
+.table-header-text-instance-2 {
+  height: 60%;
+  flex-basis: 71%;
+}

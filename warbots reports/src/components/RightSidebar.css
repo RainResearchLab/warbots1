@@ -1,0 +1,109 @@
+.right-sidebar-1 {
+  color: #ffffff80;
+  background-color: #1e1e1e;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+  padding-left: 17px;
+  padding-right: 3px;
+  font-family: DM Sans, Arial;
+  font-size: .875rem;
+  font-weight: 500;
+  line-height: 18px;
+  display: flex;
+}
+
+.my-account {
+  color: #eee798;
+  margin-bottom: 37px;
+  margin-left: 1px;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 21px;
+}
+
+.flex-container-12 {
+  width: 85%;
+  flex-direction: row;
+  flex-basis: 1%;
+  justify-content: space-between;
+  align-self: center;
+  align-items: stretch;
+  margin-bottom: 30px;
+  display: flex;
+}
+
+.june-22-2020 {
+  color: #fffc;
+  align-self: flex-end;
+}
+
+.flex-container-13 {
+  width: 70%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+  display: flex;
+}
+
+.idiaagllontgb {
+  letter-spacing: 1px;
+  color: #fffc;
+}
+
+.line-5 {
+  width: 236px;
+  height: 1px;
+  object-fit: cover;
+  border: 1px solid #fff;
+  align-self: center;
+  margin-bottom: 47px;
+}
+
+.my-assets {
+  color: #eee798;
+  margin-bottom: 35px;
+  margin-left: 1px;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 21px;
+}
+
+.flex-container-14 {
+  width: 90%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  align-items: center;
+  margin-top: 1px;
+  margin-bottom: 45px;
+  display: flex;
+}
+
+.num-1820-busd {
+  letter-spacing: 1px;
+  color: #fffc;
+  margin-right: -152px;
+}
+
+.flex-container-15 {
+  width: 90%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  align-items: center;
+  margin-bottom: 114px;
+  display: flex;
+}
+
+.num-1100-busd {
+  letter-spacing: 1px;
+  color: #fffc;
+  margin-right: -152px;
+}
+
+.more-assets {
+  color: #eee798;
+  margin-left: 1px;
+}
