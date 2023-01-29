@@ -1,0 +1,170 @@
+.warbots-assets-own {
+  color: #e1dfec80;
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  font-family: DM Sans, Arial;
+  font-size: .938rem;
+  font-weight: 600;
+  line-height: 26px;
+  display: flex;
+}
+
+.left-sidebar-instance-1 {
+  height: 100%;
+  margin-right: -164px;
+}
+
+.image-3 {
+  height: 100%;
+  background-image: url("/src/assets/image3.png");
+  background-position: center;
+  background-size: cover;
+  flex-direction: row;
+  flex-basis: 63%;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-right: -761px;
+  padding-left: 12px;
+  padding-right: 12px;
+  display: flex;
+}
+
+.flex-container {
+  height: 65%;
+  flex-direction: column;
+  flex-basis: 85%;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-top: 14px;
+  display: flex;
+}
+
+.flex-container-1 {
+  width: 80%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-size: .875rem;
+  font-weight: 400;
+  line-height: 18px;
+  display: flex;
+}
+
+.flex-container-2 {
+  height: 55%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-bottom: 9px;
+  display: flex;
+}
+
+.assets {
+  text-transform: uppercase;
+  color: #eee798;
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 36px;
+}
+
+.image-2 {
+  width: 327px;
+  height: 185px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+
+.flex-container-3 {
+  color: #fff;
+  width: 90%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-end;
+  align-items: stretch;
+  margin-left: 15px;
+  font-family: Inter, Arial;
+  display: flex;
+}
+
+.rectangle-18 {
+  height: 100%;
+  background-image: url("/src/assets/rectangle18.png");
+  background-position: center;
+  background-size: cover;
+  border-radius: 5px;
+  flex-direction: column;
+  flex-basis: 38%;
+  justify-content: center;
+  align-items: center;
+  padding-right: 2px;
+  display: flex;
+}
+
+.rewards {
+  margin-bottom: 18px;
+  font-size: 1.25rem;
+}
+
+.num-102-busd {
+  text-align: center;
+  margin-bottom: 7px;
+}
+
+.rectangle-24 {
+  width: 255px;
+  height: 255px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  border-radius: 5px;
+}
+
+.flex-container-4 {
+  width: 85%;
+  flex-direction: row;
+  flex-basis: 9%;
+  justify-content: space-between;
+  align-self: flex-end;
+  align-items: stretch;
+  margin-bottom: 2px;
+  display: flex;
+}
+
+.button-instance-1 {
+  height: 95%;
+  flex-basis: 14%;
+  margin-top: 1px;
+}
+
+.button-2-instance {
+  height: 95%;
+  flex-basis: 14%;
+}
+
+.button-3-instance {
+  height: 95%;
+  flex-basis: 33%;
+  margin-left: 86px;
+}
+
+.button-1-instance {
+  width: 30%;
+  flex-basis: 9%;
+  margin-left: 114px;
+}
+
+.line-1 {
+  width: 1px;
+  height: 900px;
+  object-fit: cover;
+}
+
+.right-sidebar-instance-2 {
+  height: 100%;
+  flex-basis: 31%;
+}
